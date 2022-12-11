@@ -1,0 +1,5 @@
+#ignore creds
+.terraform*
+*tfvars
+*tfstate.*
+*.tfstate*
